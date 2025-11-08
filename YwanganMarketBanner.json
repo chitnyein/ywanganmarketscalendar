@@ -24,8 +24,8 @@
   {
    "title": "Default Title",
    "image_url": "file:///android_asset/myads4.jpg",
-   "action_type":"open_url",
-   "target_url": "FeatureDetailActivity",
+   "action_type":"open_news",
+   "target_url": "NEWS001",
    "expire_date": "31-12-2026"
   }
   ]
