@@ -1,0 +1,32 @@
+{
+  "banner_data": [
+  {
+   "title": "Default Title",
+   "image_url": "file:///android_asset/myads.gif",
+   "action_type":"phone_call",
+   "target_url": "09402749696",
+   "expire_date": "31-12-2026"
+  },
+  {
+   "title": "Default Title",
+   "image_url": "file:///android_asset/myads2.jpg",
+   "action_type":"open_url",
+   "target_url": "https://imgpx.com/en/IBxEXsdnXUfu.jpg",
+   "expire_date": "31-12-2026"
+  },
+  {
+   "title": "Default Title",
+   "image_url": "file:///android_asset/myads3.jpg",
+   "action_type":"open_news",
+   "target_url": "NEWS003",
+   "expire_date": "31-12-2026"
+  },
+  {
+   "title": "Default Title",
+   "image_url": "file:///android_asset/myads4.jpg",
+   "action_type":"open_url",
+   "target_url": "FeatureDetailActivity",
+   "expire_date": "31-12-2026"
+  }
+  ]
+}
