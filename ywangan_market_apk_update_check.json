@@ -1,8 +1,8 @@
 {
     "status": "success",
     "is_update_available": true,
-    "latest_version_code": 1,
-    "latest_version_name": "1.0.0",
+    "latest_version_code": 2,
+    "latest_version_name": "1.1.0",
     "apk_download_url": "https://github.com/chitnyein/ywanganmarketscalendar/releases/download/v1.0.0/app-release.apk",
     "changelog": "အသစ်ပါဝင်မှုများ:\n- Performance ပိုကောင်းလာခြင်း\n- Bug များကို ပြင်ဆင်ထားခြင်း",
     "update_type": "mandatory"
