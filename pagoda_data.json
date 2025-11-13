@@ -27,8 +27,8 @@
             "festival_id": "4",
             "day": "နှစ်စဉ် တန်ဆောင်မုန်းလပြည့်နေ့",
             "about": "null",
-            "location_url": "ကျောက္ကူပြင်ဘုရားပွဲ",
-            "location": "https://www.google.com/maps/@21.2253788,96.4518629,521m/data=!3m1!1e3",
+            "title": "ကျောက္ကူပြင်ဘုရားပွဲ",
+            "location_url": "https://www.google.com/maps/@21.2253788,96.4518629,521m/data=!3m1!1e3",
             "photo_url": "pagoda"
         },
         {
@@ -90,4 +90,3 @@
     ]
 
 }
-
