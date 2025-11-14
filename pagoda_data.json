@@ -25,7 +25,9 @@
       "latitude": 21.1763751,
       "longitude": 96.445197,
       "address_myanmar": "ရွာငံမြို့၊ ရွာမရပ်ကွက်၊ ရွှေပွင့်လင်းဘုရားတောင်ခြေ",
-      "photo_url": "shwe_pwint_linn",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "ဘုရားပွဲတော်",
       "featured": true,
@@ -56,7 +58,9 @@
       "latitude": 21.1494567,
       "longitude": 96.400482,
       "address_myanmar": "ရွာငံမြို့အနီး၊ ဂဏန်းတောင်ဘုရား",
-      "photo_url": "pagoda",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "ရိုးရာ/ဘုရားပွဲ",
       "featured": false,
@@ -87,7 +91,9 @@
       "latitude": 21.16,
       "longitude": 96.45,
       "address_myanmar": "ရွာငံမြို့၊ အရှေ့ဘက် တောင်ကုန်း",
-      "photo_url": "pagoda",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "ဘုရားပွဲတော်",
       "featured": false,
@@ -118,7 +124,9 @@
       "latitude": 21.2253788,
       "longitude": 96.4518629,
       "address_myanmar": "ကျောက္ကူပြင်ရွာ၊ ကျောက္ကူပြင်ဘုရား",
-      "photo_url": "pagoda",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "ကထိန်/ဘုရားပွဲ",
       "featured": false,
@@ -180,7 +188,9 @@
       "latitude": 21.12,
       "longitude": 96.42,
       "address_myanmar": "နွားဘန်းကြီး(မြောက်)ကျေးရွာအနီး၊ စပါးပုံတောင်",
-      "photo_url": "pagoda",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "ရိုးရာ/ဘုရားပွဲ",
       "featured": false,
@@ -211,7 +221,9 @@
       "latitude": 21.18,
       "longitude": 96.46,
       "address_myanmar": "တောင်ကြားကျေးရွာ၊ မြဥမှင်ဘုရား",
-      "photo_url": "pagoda",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "ဘုရားပွဲတော်",
       "featured": false,
@@ -242,7 +254,9 @@
       "latitude": 21.2,
       "longitude": 96.41,
       "address_myanmar": "ကျောက်တောကျေးရွာ၊ ရွှေမုတ္တောဘုရား",
-      "photo_url": "pagoda",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "ဘုရားပွဲတော်",
       "featured": false,
@@ -273,7 +287,9 @@
       "latitude": 21.1,
       "longitude": 96.43,
       "address_myanmar": "အင်းလှကျေးရွာ၊ မြမြဧဘုရား",
-      "photo_url": "pagoda",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "ဘုရားပွဲတော်",
       "featured": false,
@@ -292,7 +308,9 @@
       "latitude": 21.13,
       "longitude": 96.44,
       "address_myanmar": "ထမင်းပေါင်းကျေးရွာ၊ ရွှေနန်းအုံနတ်ရေကန်",
-      "photo_url": "pagoda",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "နတ်ပွဲ/ရိုးရာ",
       "featured": false,
@@ -311,7 +329,9 @@
       "latitude": 21.11,
       "longitude": 96.41,
       "address_myanmar": "နွားဘန်းကြီး(မြောက်)ကျေးရွာ၊ ကိုးနဝင်းအေးစေတီ",
-      "photo_url": "pagoda",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "ဘုရားပွဲတော်",
       "featured": false,
