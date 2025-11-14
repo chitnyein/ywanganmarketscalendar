@@ -4,11 +4,23 @@
       "festival_id": 1,
       "title": "ရွှေပွင့်လင်းဘုရား",
       "day": "နှစ်စဉ် ပြာသိုလပြည့်ကျော် ( ၈ ) ရက်မှ ပြာသိုလပြည့်ကျော် ( ၁၂ ) ရက်",
-      "start_myanmar_lunar": "ပြာသိုလပြည့်ကျော်(၈)ရက်",
-      "end_myanmar_lunar": "ပြာသိုလပြည့်ကျော်(၁၂)ရက်",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "ပြာသို",
+          "lunar_moon": "ဆုတ်",
+          "lunar_day": 8
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "ပြာသို",
+          "lunar_moon": "ဆုတ်",
+          "lunar_day": 12
+        }
+      ],
       "duration_days": 5,
       "fixed_date": true,
-      "about_detailed": "ရွှေပွင့်လင်းဘုရားသည် နှစ် ၅၀၀ ကျော် သက်တမ်းရှိပြီး ရွာငံမြို့နယ်၏ အထင်ကရ ဘုရားတစ်ဆူဖြစ်သည်။ ပွဲတော်ကာလအတွင်း ဒေသထွက်ကုန်များကို ရောင်းချကြသည်။",
+      "about_detailed": "ရွှေပွင့်လင်းဘုရားသည် ရွာငံမြို့နယ်၏ အထင်ကရ ဘုရားတစ်ဆူဖြစ်သည်။",
       "location_url": "https://www.google.com/maps/@21.1763751,96.445197,979m/data=!3m1!1e3",
       "latitude": 21.1763751,
       "longitude": 96.445197,
@@ -23,11 +35,23 @@
       "festival_id": 2,
       "title": "ဂဏန်းတောင်ဘုရား",
       "day": "နှစ်စဉ် ကဆုန်လပြည့်နေ့",
-      "start_myanmar_lunar": "ကဆုန်လပြည့်နေ့",
-      "end_myanmar_lunar": "ကဆုန်လပြည့်နေ့",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "ကဆုန်",
+          "lunar_moon": "ပြည့်",
+          "lunar_day": 200
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "ကဆုန်",
+          "lunar_moon": "ပြည့်",
+          "lunar_day": 200
+        }
+      ],
       "duration_days": 1,
       "fixed_date": true,
-      "about_detailed": "ကဆုန်လပြည့်နေ့တွင် ဘုရားဖူးများ ကန်ဘောင်ပတ်လည် ရေလောင်းပွဲ ကျင်းပလေ့ရှိသည်။ ပွဲတော်ရက် တစ်ရက်သာ ကျင်းပသည်။",
+      "about_detailed": "ကဆုန်လပြည့်နေ့တွင် မျှားကလေးအနီး ဂဏန်းတောင်ပေါ်တွင် ကျင်းပသည်။",
       "location_url": "https://www.google.com/maps/@21.1494567,96.400482,261m/data=!3m1!1e3",
       "latitude": 21.1494567,
       "longitude": 96.400482,
@@ -42,8 +66,20 @@
       "festival_id": 3,
       "title": "တက်တောင်ဘုရားပွဲ",
       "day": "နှစ်စဉ် တန်ခူးလပြည့်ကျော် (၁) ရက်မှ (၅) ရက်နေ့အထိ",
-      "start_myanmar_lunar": "တန်ခူးလပြည့်ကျော်(၁)ရက်",
-      "end_myanmar_lunar": "တန်ခူးလပြည့်ကျော်(၅)ရက်",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "တန်ခူး",
+          "lunar_moon": "ဆုတ်",
+          "lunar_day": 1
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "တန်ခူး",
+          "lunar_moon": "ဆုတ်",
+          "lunar_day": 5
+        }
+      ],
       "duration_days": 5,
       "fixed_date": true,
       "about_detailed": "တက်တောင်ဘုရားပွဲတော်သည် ဒေသခံ ရွာငံမြို့နယ်သူ/သားများ စည်ကားစွာ လာရောက်ဖူးမြော်ကြသည့် ဘုရားပွဲဖြစ်သည်။",
@@ -60,12 +96,24 @@
     {
       "festival_id": 4,
       "title": "ကျောက္ကူပြင်ဘုရားပွဲ",
-      "day": "နှစ်စဉ် တန်ဆောင်မုန်းလပြည့်နေ့",
-      "start_myanmar_lunar": "တန်ဆောင်မုန်းလပြည့်နေ့",
-      "end_myanmar_lunar": "တန်ဆောင်မုန်းလပြည့်နေ့",
+      "day": "နှစ်စဉ်တန်ဆောင်မုန်းလပြည့်နေ့",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "တန်ဆောင်မုန်း",
+          "lunar_moon": "ပြည့်",
+          "lunar_day": 200
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "တန်ဆောင်မုန်း",
+          "lunar_moon": "ပြည့်",
+          "lunar_day": 200
+        }
+      ],
       "duration_days": 3,
       "fixed_date": true,
-      "about_detailed": "တန်ဆောင်မုန်းလပြည့်နေ့တွင် ကျင်းပပြီး ကထိန်ပွဲ၊ ဈေးရောင်းပွဲတော်များဖြင့် စည်ကားသည်။",
+      "about_detailed": "တန်ဆောင်မုန်းလပြည့်နေ့တွင် နှစ်စဉ်ကျင်းပပါသည်။ ဒုံးလွှတ်ပြိုင်ပွဲများလည်း ထည့်သွင်းကျင်းပပါသည်။",
       "location_url": "https://www.google.com/maps/@21.2253788,96.4518629,521m/data=!3m1!1e3",
       "latitude": 21.2253788,
       "longitude": 96.4518629,
@@ -80,11 +128,23 @@
       "festival_id": 5,
       "title": "ကျောက်ပုံဘုရားပွဲ",
       "day": "နှစ်စဉ် ဝါခေါင်လပြည့်ကျော် (၁၀) ရက်မှ (၁၅) ရက်အထိ",
-      "start_myanmar_lunar": "ဝါခေါင်လပြည့်ကျော်(၁၀)ရက်",
-      "end_myanmar_lunar": "ဝါခေါင်လပြည့်ကျော်(၁၅)ရက်",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "ဝါခေါင်",
+          "lunar_moon": "ဆုတ်",
+          "lunar_day": 10
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "ဝါခေါင်",
+          "lunar_moon": "ဆုတ်",
+          "lunar_day": 15
+        }
+      ],
       "duration_days": 6,
       "fixed_date": false,
-      "about_detailed": "ကျောက်ပုံဘုရားပွဲတော်တွင် ဒေသထွက် စိုက်ပျိုးရေးနှင့် သစ်သီးဝလံများ ရောင်းချသည့် ဈေးပွဲတော်ကို အဓိကထား ကျင်းပလေ့ရှိသည်။",
+      "about_detailed": "ကျောက်ပုံဘုရားပွဲတော်တွင် တည်ရှိပါသည်။",
       "location_url": "https://www.google.com/maps/@21.1518614,96.4821799,261m/data=!3m1!1e3",
       "latitude": 21.1518614,
       "longitude": 96.4821799,
@@ -99,11 +159,23 @@
       "festival_id": 6,
       "title": "စပါးပုံတောင်ဘုရားပွဲ",
       "day": "နှစ်စဉ် တပို့တွဲလဆန်း ( ၁၄ ) ရက်မှ လပြည့်နေ့အထိ",
-      "start_myanmar_lunar": "တပို့တွဲလဆန်း(၁၄)ရက်",
-      "end_myanmar_lunar": "တပို့တွဲလပြည့်နေ့",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "တပို့တွဲ",
+          "lunar_moon": "ဆန်း",
+          "lunar_day": 14
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "တပို့တွဲ",
+          "lunar_moon": "ပြည့်",
+          "lunar_day": 200
+        }
+      ],
       "duration_days": 2,
       "fixed_date": true,
-      "about_detailed": "နွားဘန်းကြီး(မြောက်)ကျေးရွာတွင် တည်ရှိပါသည်။ တပို့တွဲလပြည့်နေ့ မီးပုံပွဲနှင့်အတူ စည်ကားသော ဘုရားပွဲဖြစ်သည်။",
+      "about_detailed": "နွားဘန်းကြီး(မြောက်)ကျေးရွာတွင် တည်ရှိပါသည်။",
       "location_url": "null",
       "latitude": 21.12,
       "longitude": 96.42,
@@ -118,11 +190,23 @@
       "festival_id": 7,
       "title": "မြဥမှင်ဘုရားပွဲ",
       "day": "နှစ်စဉ် သီတင်းကျွတ်လကွယ်နေ့",
-      "start_myanmar_lunar": "သီတင်းကျွတ်လကွယ်နေ့",
-      "end_myanmar_lunar": "သီတင်းကျွတ်လကွယ်နေ့",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "သီတင်းကျွတ်",
+          "lunar_moon": "ကွယ်",
+          "lunar_day": 100
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "သီတင်းကျွတ်",
+          "lunar_moon": "ကွယ်",
+          "lunar_day": 100
+        }
+      ],
       "duration_days": 1,
       "fixed_date": true,
-      "about_detailed": "တောင်ကြားကျေးရွာတွင် တည်ရှိပါသည်။ သီတင်းကျွတ်လကွယ်နေ့တွင် ကျင်းပပြီး ရွာငံဒေသရှိ ဘုရားပွဲများအနက် အချိန်တိုအတွင်း စည်ကားသည့် ပွဲတော်ဖြစ်သည်။",
+      "about_detailed": "တောင်ကြားကျေးရွာတွင် တည်ရှိပါသည်။",
       "location_url": "null",
       "latitude": 21.18,
       "longitude": 96.46,
@@ -137,11 +221,23 @@
       "festival_id": 8,
       "title": "ရွှေမုတ္တောဘုရားပွဲ",
       "day": "နှစ်စဉ် တပေါင်းလပြည့်နေ့မှ လပြည့်ကျော် (၃) ရက်အထိ",
-      "start_myanmar_lunar": "တပေါင်းလပြည့်နေ့",
-      "end_myanmar_lunar": "တပေါင်းလပြည့်ကျော်(၃)ရက်",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "တပေါင်း",
+          "lunar_moon": "ပြည့်",
+          "lunar_day": 200
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "တပေါင်း",
+          "lunar_moon": "ဆုတ်",
+          "lunar_day": 3
+        }
+      ],
       "duration_days": 3,
       "fixed_date": true,
-      "about_detailed": "ကျောက်တောကျေးရွာတွင် တည်ရှိပါသည်။ မြန်မာ့နှစ်သစ်ကူး မတိုင်မီ တပေါင်းပွဲတော်အဖြစ် ကျင်းပလေ့ရှိသည်။",
+      "about_detailed": "ကျောက်တောကျေးရွာတွင် တည်ရှိပါသည်။",
       "location_url": "null",
       "latitude": 21.2,
       "longitude": 96.41,
@@ -156,11 +252,23 @@
       "festival_id": 9,
       "title": "မြမြဧဘုရားပွဲ",
       "day": "နှစ်စဉ် တပို့တွဲလပြည့်ကျော် (၁) ရက်နေ့မှ (၅) ရက်အထိ",
-      "start_myanmar_lunar": "တပို့တွဲလပြည့်ကျော်(၁)ရက်",
-      "end_myanmar_lunar": "တပို့တွဲလပြည့်ကျော်(၅)ရက်",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "တပို့တွဲ",
+          "lunar_moon": "ဆုတ်",
+          "lunar_day": 1
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "တပို့တွဲ",
+          "lunar_moon": "ဆုတ်",
+          "lunar_day": 5
+        }
+      ],
       "duration_days": 5,
       "fixed_date": true,
-      "about_detailed": "အင်းလှကျေးရွာတွင် တည်ရှိပါသည်။ ပွဲတော်ရက်များအတွင်း ဇာတ်ပွဲနှင့် အငြိမ့်များ ကပြဖျော်ဖြေလေ့ရှိသည်။",
+      "about_detailed": "အင်းလှကျေးရွာတွင် တည်ရှိပါသည်။",
       "location_url": "null",
       "latitude": 21.1,
       "longitude": 96.43,
@@ -179,7 +287,7 @@
       "end_myanmar_lunar": "နှစ်ဆန်း(၉)ရက်နေ့",
       "duration_days": 3,
       "fixed_date": true,
-      "about_detailed": "ထမင်းပေါင်းကျေးရွာတွင် တည်ရှိပါသည်။ နှစ်ဆန်း ၇ ရက်မှ ၉ ရက်အထိ ကျင်းပပြီး ဒေသခံ ရိုးရာ နတ်ပွဲ အသွင်လည်း ဆောင်သည်။",
+      "about_detailed": "ထမင်းပေါင်းကျေးရွာတွင် တည်ရှိပါသည်။",
       "location_url": "null",
       "latitude": 21.13,
       "longitude": 96.44,
@@ -198,7 +306,7 @@
       "end_myanmar_lunar": "နှစ်ဆန်း(၉)ရက်နေ့",
       "duration_days": 1,
       "fixed_date": true,
-      "about_detailed": "နွားဘန်းကြီး(မြောက်)ကျေးရွာတွင် တည်ရှိပါသည်။ နှစ်ဆန်း ၉ ရက်နေ့ တစ်ရက်တည်းသာ ဘုရားဖူးဧည့်သည်များ စည်ကားစွာ လာရောက်ကြသည်။",
+      "about_detailed": "နွားဘန်းကြီး(မြောက်)ကျေးရွာတွင် တည်ရှိပါသည်။",
       "location_url": "null",
       "latitude": 21.11,
       "longitude": 96.41,
