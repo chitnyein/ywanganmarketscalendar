@@ -157,7 +157,9 @@
       "latitude": 21.1518614,
       "longitude": 96.4821799,
       "address_myanmar": "ကျောက်ပုံရွာအနီး၊ ကျောက်ပုံဘုရား",
-      "photo_url": "pagoda",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
       "township": "ရွာငံမြို့နယ်",
       "category": "ဈေးပွဲတော်",
       "featured": false,
