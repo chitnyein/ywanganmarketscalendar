@@ -62,7 +62,7 @@
         "https://imgpx.com/en/0LlSEmgscMQw.png"
       ],
       "township": "ရွာငံမြို့နယ်",
-      "category": "ရိုးရာ/ဘုရားပွဲ",
+      "category": "ဘုရားပွဲတော်",
       "featured": false,
       "contact_phone": "null"
     },
@@ -128,7 +128,7 @@
         "https://imgpx.com/en/0LlSEmgscMQw.png"
       ],
       "township": "ရွာငံမြို့နယ်",
-      "category": "ကထိန်/ဘုရားပွဲ",
+      "category": "ဘုရားပွဲတော်",
       "featured": false,
       "contact_phone": "null"
     },
@@ -161,7 +161,7 @@
         "https://imgpx.com/en/0LlSEmgscMQw.png"
       ],
       "township": "ရွာငံမြို့နယ်",
-      "category": "ဈေးပွဲတော်",
+      "category": "ဘုရားပွဲတော်",
       "featured": false,
       "contact_phone": "null"
     },
@@ -194,7 +194,7 @@
         "https://imgpx.com/en/0LlSEmgscMQw.png"
       ],
       "township": "ရွာငံမြို့နယ်",
-      "category": "ရိုးရာ/ဘုရားပွဲ",
+      "category": "ဘုရားပွဲတော်",
       "featured": false,
       "contact_phone": "null"
     },
@@ -301,8 +301,20 @@
       "festival_id": 10,
       "title": "ရွှေနန်းအုံနတ်ရေကန်ဘုရားပွဲ",
       "day": "နှစ်စဉ် နှစ်ဆန်း (၇) ရက်နေ့မှ (၉) ရက်အထိ",
-      "start_myanmar_lunar": "နှစ်ဆန်း(၇)ရက်နေ့",
-      "end_myanmar_lunar": "နှစ်ဆန်း(၉)ရက်နေ့",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "နှစ်",
+          "lunar_moon": "ဆန်း",
+          "lunar_day": 7
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "နှစ်",
+          "lunar_moon": "ဆန်း",
+          "lunar_day": 9
+        }
+      ],
       "duration_days": 3,
       "fixed_date": true,
       "about_detailed": "ထမင်းပေါင်းကျေးရွာတွင် တည်ရှိပါသည်။",
@@ -314,7 +326,7 @@
         "https://imgpx.com/en/0LlSEmgscMQw.png"
       ],
       "township": "ရွာငံမြို့နယ်",
-      "category": "နတ်ပွဲ/ရိုးရာ",
+      "category": "ဘုရားပွဲတော်",
       "featured": false,
       "contact_phone": "null"
     },
@@ -322,8 +334,20 @@
       "festival_id": 11,
       "title": "ကိုးနဝင်းအေးစေတီတော်ဘုရားပွဲ",
       "day": "နှစ်စဉ် နှစ်ဆန်း (၉) ရက်နေ့",
-      "start_myanmar_lunar": "နှစ်ဆန်း(၉)ရက်နေ့",
-      "end_myanmar_lunar": "နှစ်ဆန်း(၉)ရက်နေ့",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "နှစ်",
+          "lunar_moon": "ဆန်း",
+          "lunar_day": 9
+        }
+      ],
+      "end_myanmar_lunar": [
+        {
+          "lunar_month": "နှစ်",
+          "lunar_moon": "ဆန်း",
+          "lunar_day": 9
+        }
+      ],
       "duration_days": 1,
       "fixed_date": true,
       "about_detailed": "နွားဘန်းကြီး(မြောက်)ကျေးရွာတွင် တည်ရှိပါသည်။",
