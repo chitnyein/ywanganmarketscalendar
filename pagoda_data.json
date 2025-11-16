@@ -2,7 +2,7 @@
   "pagoda_data": [
     {
       "festival_id": 1,
-      "title": "ရွှေပွင့်လင်းဘုရား",
+      "title": "ရွှေပွင့်လင်းဘုရားပွဲတော်",
       "day": "နှစ်စဉ် ပြာသိုလပြည့်ကျော် ( ၈ ) ရက်မှ ပြာသိုလပြည့်ကျော် ( ၁၂ ) ရက်",
       "start_myanmar_lunar": [
         {
@@ -20,7 +20,7 @@
       ],
       "duration_days": 5,
       "fixed_date": true,
-      "about_detailed": "ရွှေပွင့်လင်းဘုရားသည် ရွာငံမြို့နယ်၏ အထင်ကရ ဘုရားတစ်ဆူဖြစ်သည်။",
+      "about_detailed": "ရွှေပွင့်လင်းဘုရားသည် ရွာငံမြို့နယ်၏ ကျက်သရေဆောင် ရွှေပွင့်လင်းတောင်ပေါ်တွင် တည်ထားကိုးကွယ်သည့် စေတီတော်မြတ်အား ဗုဒ္ဓပူဇနိယျပွဲတော်",
       "location_url": "https://www.google.com/maps/@21.1763751,96.445197,979m/data=!3m1!1e3",
       "latitude": 21.1763751,
       "longitude": 96.445197,
@@ -32,24 +32,20 @@
       "category": "ဘုရားပွဲတော်",
       "featured": true,
       "contact_phone": "null",
-      "highlights_header": "✨ Feature အသစ်များ ✨",
+      "highlights_header": "✨ ပျော်ပွဲရွှင်ပွဲများ ✨",
       "highlights": [
         {
-          "icon": "⚡",
-          "detail": "**ပိုပေါ့ပါး၊ ပိုမြန်ဆန်**\nApp ကို ယခင်ကထက် ပိုမိုသွက်လက်အောင် ပြင်ဆင်ထားတယ်။"
+          "icon": "✨",
+          "detail": "**ကလေးသူငယ်များအတွက်**\nပျော့အိအိ၊ ချားရဟတ်၊ ပင်လယ်ဓားမြလှေ"
         },
         {
-          "icon": "📌",
-          "detail": "**Home Screen Widget** ပါဝင်လာပါပြီ!\nHome Screen မှာပဲ ဈေးနေ့ကို အမြန်ဆုံး တွေ့မြင်နိုင်ပါပြီ။"
+          "icon": "✨",
+          "detail": "**ဇာတ်ပွဲသဘင်**\nမိဘပြည်သူများအတွက် ဇာတ်ပွဲသဘင်"
         }
       ],
       "relative_links": [
         {
-          "link_name": "Download Link",
-          "link_url": "https://imgpx.com/en/xGEu5lxnkirO.jpg"
-        },
-        {
-          "link_name": "Download Link 2",
+          "link_name": "ပွဲတော်ပုံရိပ်များ",
           "link_url": "https://imgpx.com/en/xGEu5lxnkirO.jpg"
         }
       ]
