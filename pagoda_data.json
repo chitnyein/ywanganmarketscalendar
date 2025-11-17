@@ -432,7 +432,7 @@
       "duration_days": 1,
       "fixed_date": true,
       "about_detailed": "ပင်းတယမြို့နယ်၊ ကျုံးကျေးရွာအုပ်စု၊ ကျုံးကျေးရွာတွင် တည်ရှိပါသည်။",
-      "location_url": "https://www.google.com/maps/@20.7910261,96.6453187,17z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D",
+      "location_url": "https://www.google.com/maps/@20.7910261,96.6453187,17z",
       "latitude": 20.7910261,
       "longitude": 96.6453187,
       "address_myanmar": "ပင်းတယမြို့နယ်",
@@ -440,7 +440,6 @@
         "https://maps.app.goo.gl/AurM1jjnWYyeRaAX6",
         "https://maps.app.goo.gl/b7euW9BaijkSzcPx8",
         "https://maps.app.goo.gl/Ror2Hh3tsN3ghn9a7"
-        "https://www.moi.gov.mm/iprd/sites/default/files/news-image/2023-12/%E1%81%81%E1%81%80_0.jpg"
       ],
       "township": "ပင်းတယမြို့နယ်၊ ကျုံးကျေးရွာအုပ်စု၊ ကျုံးကျေးရွာ",
       "category": "ဘုရားပွဲတော်",
@@ -449,5 +448,3 @@
     }
   ]
 }
-
-
