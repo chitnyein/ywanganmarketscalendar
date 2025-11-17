@@ -417,6 +417,32 @@
       "category": "ဘုရားပွဲတော်",
       "featured": false,
       "contact_phone": "null"
+    },
+    {
+      "festival_id": 12,
+      "title": "ကျုံမွေတော်ဘုရားပွဲ",
+      "day": "နှစ်စဉ် တန်ဆောင်မုန်းလပြည့်ကျော် (၈) ရက်နေ့",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "တန်ဆောင်မုန်း",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 8
+        }
+      ],
+      "duration_days": 1,
+      "fixed_date": true,
+      "about_detailed": "ပင်းတယမြို့နယ်၊ ကျုံးကျေးရွာအုပ်စု၊ ကျုံးကျေးရွာတွင် တည်ရှိပါသည်။",
+      "location_url": "https://www.google.com/maps/@20.7910261,96.6453187,17z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D",
+      "latitude": 20.7910261,
+      "longitude": 96.6453187,
+      "address_myanmar": "ပင်းတယမြို့နယ်",
+      "photo_url": [
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy1Re_ShtPOJVf4e7pvdWOLLilNp9Zz3Y5oENwHtkibnu7FFchqJ8op8huvrolfwemPq7XdxL-0EFFgTFdji-EnW9svf_zmYVqPLFGC3VvzqVJIbCJGh0KNsrRanrLtgtTeB2Rq=w408-h306-k-no"
+      ],
+      "township": "ပင်းတယမြို့နယ်၊ ကျုံးကျေးရွာအုပ်စု၊ ကျုံးကျေးရွာ",
+      "category": "ဘုရားပွဲတော်",
+      "featured": false,
+      "contact_phone": "null"
     }
   ]
 }
