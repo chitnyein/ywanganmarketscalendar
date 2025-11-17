@@ -7,14 +7,27 @@
       "start_myanmar_lunar": [
         {
           "lunar_month": "ပြာသို",
-          "lunar_moon": "ဆုတ်",
+          "lunar_moon": "ဆတ",
           "lunar_day": 8
-        }
-      ],
-      "end_myanmar_lunar": [
+        },
         {
           "lunar_month": "ပြာသို",
-          "lunar_moon": "ဆုတ်",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 9
+        },
+        {
+          "lunar_month": "ပြာသို",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 10
+        },
+        {
+          "lunar_month": "ပြာသို",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 11
+        },
+        {
+          "lunar_month": "ပြာသို",
+          "lunar_moon": "ဆတ",
           "lunar_day": 12
         }
       ],
@@ -61,13 +74,6 @@
           "lunar_day": 200
         }
       ],
-      "end_myanmar_lunar": [
-        {
-          "lunar_month": "ကဆုန်",
-          "lunar_moon": "ပြည့်",
-          "lunar_day": 200
-        }
-      ],
       "duration_days": 1,
       "fixed_date": true,
       "about_detailed": "ကဆုန်လပြည့်နေ့တွင် မျှားကလေးအနီး ဂဏန်းတောင်ပေါ်တွင် ကျင်းပသည်။",
@@ -90,14 +96,27 @@
       "start_myanmar_lunar": [
         {
           "lunar_month": "တန်ခူး",
-          "lunar_moon": "ဆုတ်",
+          "lunar_moon": "ဆတ",
           "lunar_day": 1
-        }
-      ],
-      "end_myanmar_lunar": [
+        },
         {
           "lunar_month": "တန်ခူး",
-          "lunar_moon": "ဆုတ်",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 2
+        },
+        {
+          "lunar_month": "တန်ခူး",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 3
+        },
+        {
+          "lunar_month": "တန်ခူး",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 4
+        },
+        {
+          "lunar_month": "တန်ခူး",
+          "lunar_moon": "ဆတ",
           "lunar_day": 5
         }
       ],
@@ -127,13 +146,6 @@
           "lunar_day": 200
         }
       ],
-      "end_myanmar_lunar": [
-        {
-          "lunar_month": "တန်ဆောင်မုန်း",
-          "lunar_moon": "ပြည့်",
-          "lunar_day": 200
-        }
-      ],
       "duration_days": 3,
       "fixed_date": true,
       "about_detailed": "တန်ဆောင်မုန်းလပြည့်နေ့တွင် နှစ်စဉ်ကျင်းပပါသည်။ ဒုံးလွှတ်ပြိုင်ပွဲများလည်း ထည့်သွင်းကျင်းပပါသည်။",
@@ -156,15 +168,33 @@
       "start_myanmar_lunar": [
         {
           "lunar_month": "ဝါခေါင်",
-          "lunar_moon": "ဆုတ်",
+          "lunar_moon": "ဆတ",
           "lunar_day": 10
-        }
-      ],
-      "end_myanmar_lunar": [
+        },
         {
           "lunar_month": "ဝါခေါင်",
-          "lunar_moon": "ဆုတ်",
-          "lunar_day": 15
+          "lunar_moon": "ဆတ",
+          "lunar_day": 11
+        },
+        {
+          "lunar_month": "ဝါခေါင်",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 12
+        },
+        {
+          "lunar_month": "ဝါခေါင်",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 13
+        },
+        {
+          "lunar_month": "ဝါခေါင်",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 14
+        },
+        {
+          "lunar_month": "ဝါခေါင်",
+          "lunar_moon": "ကွယ်",
+          "lunar_day": 100
         }
       ],
       "duration_days": 6,
@@ -189,11 +219,9 @@
       "start_myanmar_lunar": [
         {
           "lunar_month": "တပို့တွဲ",
-          "lunar_moon": "ဆန်း",
+          "lunar_moon": "ဆန",
           "lunar_day": 14
-        }
-      ],
-      "end_myanmar_lunar": [
+        },
         {
           "lunar_month": "တပို့တွဲ",
           "lunar_moon": "ပြည့်",
@@ -226,13 +254,6 @@
           "lunar_day": 100
         }
       ],
-      "end_myanmar_lunar": [
-        {
-          "lunar_month": "သီတင်းကျွတ်",
-          "lunar_moon": "ကွယ်",
-          "lunar_day": 100
-        }
-      ],
       "duration_days": 1,
       "fixed_date": true,
       "about_detailed": "တောင်ကြားကျေးရွာတွင် တည်ရှိပါသည်။",
@@ -257,12 +278,20 @@
           "lunar_month": "တပေါင်း",
           "lunar_moon": "ပြည့်",
           "lunar_day": 200
-        }
-      ],
-      "end_myanmar_lunar": [
+        },
         {
           "lunar_month": "တပေါင်း",
-          "lunar_moon": "ဆုတ်",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 1
+        },
+        {
+          "lunar_month": "တပေါင်း",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 2
+        },
+        {
+          "lunar_month": "တပေါင်း",
+          "lunar_moon": "ဆတ",
           "lunar_day": 3
         }
       ],
@@ -288,14 +317,27 @@
       "start_myanmar_lunar": [
         {
           "lunar_month": "တပို့တွဲ",
-          "lunar_moon": "ဆုတ်",
+          "lunar_moon": "ဆတ",
           "lunar_day": 1
-        }
-      ],
-      "end_myanmar_lunar": [
+        },
         {
           "lunar_month": "တပို့တွဲ",
-          "lunar_moon": "ဆုတ်",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 2
+        },
+        {
+          "lunar_month": "တပို့တွဲ",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 3
+        },
+        {
+          "lunar_month": "တပို့တွဲ",
+          "lunar_moon": "ဆတ",
+          "lunar_day": 4
+        },
+        {
+          "lunar_month": "တပို့တွဲ",
+          "lunar_moon": "ဆတ",
           "lunar_day": 5
         }
       ],
@@ -321,14 +363,17 @@
       "start_myanmar_lunar": [
         {
           "lunar_month": "နှစ်",
-          "lunar_moon": "ဆန်း",
+          "lunar_moon": "ဆန",
           "lunar_day": 7
-        }
-      ],
-      "end_myanmar_lunar": [
+        },
         {
           "lunar_month": "နှစ်",
-          "lunar_moon": "ဆန်း",
+          "lunar_moon": "ဆန",
+          "lunar_day": 8
+        },
+        {
+          "lunar_month": "နှစ်",
+          "lunar_moon": "ဆန",
           "lunar_day": 9
         }
       ],
@@ -354,14 +399,7 @@
       "start_myanmar_lunar": [
         {
           "lunar_month": "နှစ်",
-          "lunar_moon": "ဆန်း",
-          "lunar_day": 9
-        }
-      ],
-      "end_myanmar_lunar": [
-        {
-          "lunar_month": "နှစ်",
-          "lunar_moon": "ဆန်း",
+          "lunar_moon": "ဆန",
           "lunar_day": 9
         }
       ],
