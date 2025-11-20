@@ -420,7 +420,7 @@
     },
     {
       "festival_id": 12,
-      "title": "ကျုံမွေတော်ဘုရားပွဲ",
+      "title": "ကျုံးမွေတော်ဘုရားပွဲ",
       "day": "နှစ်စဉ် တန်ဆောင်မုန်းလပြည့်ကျော် (၈) ရက်နေ့",
       "start_myanmar_lunar": [
         {
@@ -446,6 +446,74 @@
         {
           "link_name": "တည်နေရာ",
           "link_url": "https://www.google.com/maps/@20.7910261,96.6453187,17z?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D"
+        }
+      ]
+    },
+    {
+      "festival_id": 13,
+      "title": "ပင်းတယတပေါင်းပွဲတော်",
+      "day": "တပေါင်းလဆန်း( ၁၀ ) ရက်မှ တပေါင်းလပြည့်နေ့အထိ",
+      "start_myanmar_lunar": [
+        {
+          "lunar_month": "တပေါင်း",
+          "lunar_moon": "ဆန",
+          "lunar_day": 10
+        },
+        {
+          "lunar_month": "တပေါင်း",
+          "lunar_moon": "ဆန",
+          "lunar_day": 11
+        },
+        {
+          "lunar_month": "တပေါင်း",
+          "lunar_moon": "ဆန",
+          "lunar_day": 12
+        },
+        {
+          "lunar_month": "တပေါင်း",
+          "lunar_moon": "ဆန",
+          "lunar_day": 13
+        },
+        {
+          "lunar_month": "တပေါင်း",
+          "lunar_moon": "ဆန",
+          "lunar_day": 14
+        },
+        {
+          "lunar_month": "တပေါင်း",
+          "lunar_moon": "ပြည့်",
+          "lunar_day": 200
+        }
+      ],
+      "duration_days": 6,
+      "fixed_date": true,
+      "about_detailed": "ရှေးဟောင်းသမိုင်းဝင်ရွှေဥမင်သဘာဝလိုဏ်ဂူတော်ဘုရားဗုဒ္ဓပူဇနိယပူဇော်ပွဲကြီး",
+      "location_url": "https://www.google.com/maps/@21.1763751,96.445197,979m/data=!3m1!1e3",
+      "latitude": 21.1763751,
+      "longitude": 96.445197,
+      "address_myanmar": "ရှမ်းပြည်နယ်တောင်ပိုင်း၊ ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ၊ ပင်းတယမြို့နယ်",
+      "photo_url": [
+        "https://imgpx.com/en/0LlSEmgscMQw.png"
+      ],
+      "township": "ပင်းတယမြို့နယ်",
+      "category": "ဘုရားပွဲတော်",
+      "featured": true,
+      "contact_phone": "null",
+      "highlights_header": "✨ ပျော်ပွဲရွှင်ပွဲများ ✨",
+      "highlights": [
+        {
+          "icon": "✨",
+          "detail": "**ကလေးသူငယ်များအတွက်**\nပျော့အိအိ၊ ချားရဟတ်၊ ပင်လယ်ဓားမြလှေ"
+        },
+        {
+          "icon": "✨",
+          "detail": "**ဇာတ်ပွဲသဘင်**\nမိဘပြည်သူများအတွက် ဇာတ်ပွဲသဘင်"
+        }
+      ],
+      "relative_links": [
+        {
+          "link_name": "ပွဲတော်ပုံရိပ်များ",
+          "link_url": "https://imgpx.com/en/xGEu5lxnkirO.jpg"
         }
       ]
     }
