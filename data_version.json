@@ -1,7 +1,7 @@
 {"market_data": [
         {
-            "version": "2",
-            "release_date": "29.12.2024",
+            "version": "3",
+            "release_date": "19.12.2025",
             "changelog": "2026 ခုနှစ်အတွက် ပြက္ခဒိန် ဒေတာအသစ်ပါဝင်ပါတယ်။",
 	    "changelog_pao": "2026 ခုနှစ်အတွက် ပြက္ခဒိန် ဒေတာအသစ်ပါဝင်ပါတယ်။",
 	    "update_type": "mandatory"
@@ -17,6 +17,7 @@
         }
     ]
 }
+
 
 
 
