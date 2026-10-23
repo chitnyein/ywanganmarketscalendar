@@ -31,8 +31,8 @@
     {
    "title": "Default Title",
    "image_url": "https://ibb.co/XrBcjV9J",
-   "action_type":"open_url",
-   "target_url": "https://ibb.co/XrBcjV9J",
+   "action_type":"open_news",
+    "target_url": "NEWS002",,
    "expire_date": "31-10-2026"
   }
   ]
