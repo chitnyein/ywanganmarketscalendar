@@ -27,6 +27,13 @@
    "action_type":"open_news",
    "target_url": "NEWS001",
    "expire_date": "31-12-2026"
+  },
+    {
+   "title": "Default Title",
+   "image_url": "file:///android_asset/myads5.jpg",
+   "action_type":"open_news",
+   "target_url": "https://ibb.co/XrBcjV9J",
+   "expire_date": "31-10-2026"
   }
   ]
 }
