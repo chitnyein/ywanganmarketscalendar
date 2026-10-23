@@ -31,7 +31,7 @@
     {
    "title": "Default Title",
    "image_url": "file:///android_asset/myads5.jpg",
-   "action_type":"open_news",
+   "action_type":"open_url",
    "target_url": "https://ibb.co/XrBcjV9J",
    "expire_date": "31-10-2026"
   }
