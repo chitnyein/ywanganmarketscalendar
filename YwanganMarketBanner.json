@@ -1,5 +1,19 @@
 {
   "banner_data": [
+     {
+   "title": "Thadingyus",
+   "image_url": "https://i.ibb.co/rRPDFvgy/Gemini-Generated-Image-g7c5jyg7c5jyg7c5.jpg",
+   "action_type":"open_news",
+    "target_url": "NEWS002",
+   "expire_date": "31-10-2026"
+  },
+     {
+   "title": "Thadingyus2",
+   "image_url": "https://i.ibb.co/8nrNbxpt/Gemini-Generated-Image-7n8ch17n8ch17n8c.jpg",
+   "action_type":"open_news",
+    "target_url": "NEWS002",
+   "expire_date": "31-10-2026"
+  },
   {
    "title": "Default Title",
    "image_url": "file:///android_asset/myads.gif",
@@ -27,13 +41,6 @@
    "action_type":"open_news",
    "target_url": "NEWS001",
    "expire_date": "31-12-2026"
-  },
-    {
-   "title": "Thadingyus",
-   "image_url": "https://i.ibb.co/rRPDFvgy/Gemini-Generated-Image-g7c5jyg7c5jyg7c5.jpg",
-   "action_type":"open_news",
-    "target_url": "NEWS002",
-   "expire_date": "31-10-2026"
   }
   ]
 }
